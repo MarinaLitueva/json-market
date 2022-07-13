@@ -1,0 +1,185 @@
+[
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 8017",
+    "width": "130",
+	"typeCover": "Односторонний",
+    "popular": false,
+	"price": 3.1
+	
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 8017",
+    "width": "130",
+	"typeCover": "Двустронний",
+    "popular": true,
+	"price": 3.4
+	
+  },
+ {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 6005",
+    "width": "130",
+	"typeCover": "Односторонний",
+    "popular": false,
+	"price": 3.1
+	
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 6005",
+    "width": "130",
+	"typeCover": "Двустронний",
+    "popular": false,
+	"price": 3.4
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 3005",
+    "width": "130",
+	"typeCover": "Односторонний",
+    "popular": true,
+	"price": 3.1
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 3005",
+    "width": "130",
+	"typeCover": "Двустронний",
+    "popular": false,
+	"price": 3.4
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 7004",
+    "width": "130",
+	"typeCover": "Двустронний",
+    "popular": false,
+	"price": 3.6
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 1014",
+    "width": "130",
+	"typeCover": "Односторонний",
+    "popular": false,
+	"price": 3.6
+  },
+   {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "Золотой орех",
+    "width": "130",
+	"typeCover": "Двустронний",
+    "popular": false,
+	"price": 5.4
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 8017",
+    "width": "95",
+	"typeCover": "Односторонний",
+    "popular": false,
+	"price": 2
+  },
+   {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 8017",
+    "width": "95",
+	"typeCover": "Двустронний",
+    "popular": false,
+	"price": 2.7
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 6005",
+    "width": "95",
+	"typeCover": "Двустронний",
+    "popular": false,
+	"price": 2.7
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 7004",
+    "width": "95",
+	"typeCover": "Односторонний",
+    "popular": true,
+	"price": 2.3
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 9003",
+    "width": "95",
+	"typeCover": "Двустронний",
+    "popular": false,
+	"price": 2.7
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "Античный дуб",
+    "width": "95",
+	"typeCover": "Двустронний",
+    "popular": false,
+	"price": 4.3
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 8017",
+    "width": "100",
+	"typeCover": "Односторонний",
+    "popular": false,
+	"price": 2
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 8017",
+    "width": "100",
+	"typeCover": "Двустронний",
+    "popular": false,
+	"price": 2.3
+  },
+  {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 6005",
+    "width": "100",
+	"typeCover": "Двустронний",
+    "popular": false,
+	"price": 2.3
+  },
+   {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 3005",
+    "width": "100",
+	"typeCover": "Двустронний",
+    "popular": false,
+	"price": 2.3
+  },
+   {
+    "name": "Металлический штакетник для забора",
+    "picture": "case.svg",
+    "color": "RAL 7024",
+    "width": "100",
+	"typeCover": "Двустронний",
+    "popular": true,
+	"price": 2.3
+  }
+]
